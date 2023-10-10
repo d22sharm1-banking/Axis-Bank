@@ -1,4 +1,3 @@
 this file is deploy.sh
-
-helolllllllllllllllllllllllllllll
-Hello guys i am in development brancg and practicing
+We are using this code to try fetch/pull cmds
+Hello guys i am in development branch and practicing
